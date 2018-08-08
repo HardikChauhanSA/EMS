@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @HardikChauhanSA Sign out
-1
-0 0 HardikChauhanSA/EMS
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-EMS/.gitignore
-e08480e  2 hours ago
-@HardikChauhanSA HardikChauhanSA Initial commit
-     
-62 lines (44 sloc)  914 Bytes
 # Logs
 logs
 *.log
@@ -76,16 +59,3 @@ typings/
 
 # next.js build output
 .next
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
